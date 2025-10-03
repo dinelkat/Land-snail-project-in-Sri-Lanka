@@ -1,0 +1,69 @@
+﻿DS,Site,Molluscide use,Crop rotation,Rest place,Scientific advice,Field damage extent
+AG,Ambagamuwa,0,1,Edge,0,10-20
+AG,Bagathulawagama,0,0,Soil,0,10-20
+AG,Gauvaravilla,1,1,Damping sites,0,10-20
+AG,Glenugie,1,1,Damping sites,0,10-20
+AG,Hebbekanda,0,0,Edge,0,10-20
+AG,Maskeliya,1,0,Edge,0,10-20
+AG,Midford,1,0,Edge,0,10-20
+AG,Norwood,1,1,Edge,0,10-20
+AG,Stockholm,1,1,Edge,0,10-20
+HK,Hanguranketha,1,1,Edge,1,10-20
+KT,Beramana,0,1,Edge,0,10-20
+KT,Pundalu oya,1,0,Edge,0,10-20
+NE,Ardlei,1,1,Edge,0,10-20
+NE,Talawakele,1,1,Edge,0,10-20
+NE,Waverley,1,0,Edge,0,10-20
+WP,Keenagolla,0,1,Edge,0,10-20
+WP,Ragala,1,0,Damping sites,0,10-20
+WP,Walapane,0,1,Edge,0,10-20
+AG,Dehigasthenna,0,0,Soil,1,<10
+AG,Hatton,1,1,Damping sites,0,<10
+AG,Nallatanniya,1,1,Edge,0,<10
+AG,Rozella,1,1,Edge,0,<10
+HK,Adikarigama,1,1,Edge,1,<10
+HK,DaraOya,1,1,Edge,0,<10
+HK,Elamulla,1,0,Edge,1,<10
+HK,Hewaheta,0,1,Edge,0,<10
+HK,Mandaramnuvara,1,0,Edge,1,<10
+HK,Mool oya,0,1,Edge,0,<10
+HK,Rikillagaskada,1,1,Edge,0,<10
+KT,Kalapitiya,1,1,Edge,1,<10
+KT,Kikiliyamanna,1,0,Edge,0,<10
+KT,Kothmalgama,0,0,Edge,0,<10
+KT,Mailappawala,0,0,Edge,0,<10
+KT,Mawela,0,1,Edge,0,<10
+KT,Methagama,0,1,Edge,0,<10
+KT,Rawanagoda,0,1,Edge,0,<10
+WP,Ambagaspitiya,0,1,Edge,0,<10
+WP,Kumbalgama,0,1,Edge,0,<10
+WP,Lidesdialwatta,1,0,Damping sites,0,<10
+WP,Maturata,0,1,Edge,0,<10
+WP,Puswalapitiya,0,1,Edge,0,<10
+WP,Uda pussellawa,1,0,Edge,0,<10
+WP,Udagama,0,1,Edge,0,<10
+AG,Bloomfield,1,1,Edge,0,20-30
+AG,Bogawanthalawa,1,0,Edge,1,20-30
+AG,BogawanthalawaD,1,1,Edge,0,20-30
+AG,Brunswick,1,1,Damping sites,0,20-30
+AG,Campion,1,1,Edge,0,20-30
+AG,Elfindale,1,1,Edge,0,20-30
+AG,Gorthie,1,1,Damping sites,0,20-30
+AG,Marussakelle,1,0,Edge,0,20-30
+KT,Kudaoya,1,1,Damping sites,0,20-30
+KT,Mahaweligama,0,1,Edge,1,20-30
+KT,Palagolla,1,1,Edge,0,20-30
+KT,Ruvanpura,0,1,Edge,0,20-30
+KT,Watagoda,1,1,Edge,0,20-30
+NE,Agarapathana,1,0,Edge,0,20-30
+NE,Ambewela,1,0,Edge,1,20-30
+NE,Kotagala,1,1,Edge,0,20-30
+NE,Lindula,1,0,Edge,0,20-30
+NE,Meepilimanna,1,1,Edge,1,20-30
+NE,Nuwara Eliya,1,1,Edge,0,20-30
+KT,Labukele,1,1,Damping sites,0,30-40
+NE,Blackpool,1,1,Edge,0,30-40
+NE,Diyagama,1,1,Edge,0,30-40
+NE,Kandapola,1,0,Edge,0,30-40
+NE,Nanu oya,1,1,Edge,0,30-40
+NE,Seethaeliya,1,1,Edge,0,30-40

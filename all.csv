@@ -1,0 +1,993 @@
+﻿DS,Site,Crop,Stage,Field Type,Part,Species,SpeciesAb,Season,Abundance,Damage,E,PH,RF,RH,T
+HK,Adikarigama,Beans,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,1,525,7.88,1.6,81.8,27
+KT,Beramana,Chili,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,0,976,6.23,1.6,78.2,25.1
+AG,Gauvaravilla,Radish,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,0,1320,4.95,7.5,84.5,23.7
+KT,Kalapitiya,Carrot,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,0,922,5.79,1.6,86.2,26.1
+WP,Lidesdialwatta,Carrot,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,1,1,1623,5.29,9.9,85.35,22.3
+WP,Lidesdialwatta,Leeks,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,0,1623,5.8,4.8,77.2,22.5
+KT,Mahaweligama,Chili,Nursery,Polytunnel,Seedling,Allopeas gracile,AllGra,rainy,1,3,1096,5.78,2.575,85.3,22.7
+KT,Mahaweligama,Chili,Young,Agriculture,Root,Allopeas gracile,AllGra,rainy,1,4,1096,5.78,2.575,85.3,22.7
+AG,Nallatanniya,Cabbage,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,1,1,1234,5.395,6.885,86.65,23.8
+AG,Nallatanniya,German Turnip,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,1,12,1234,5.395,6.885,86.65,23.8
+AG,Nallatanniya,Leeks,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,0,1234,5.54,6.7,83.3,24.4
+KT,Palagolla,Carrot,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,0,1246,4.82,2.6,66.3,24.4
+KT,Pundalu oya,Carrot,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,0,1204,4.83,4.5,82,21.4
+WP,Puswalapitiya,Cabbage,Mature,Agriculture,Root,Allopeas gracile,AllGra,non-rainy,1,1,1012,5.82,3.6,87.7,23.2
+HK,Adikarigama,Beans,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,2,3,525,7.83,4.25,88.4,22.8
+AG,Nallatanniya,Leeks,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,2,2,1234,5.395,6.885,86.65,23.8
+WP,Lidesdialwatta,Leeks,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,3,2,1623,5.29,9.9,85.35,22.3
+WP,Puswalapitiya,Cabbage,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,3,4,1012,6.28,6.8,92.2,23.1
+AG,Gauvaravilla,Radish,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,4,2,1320,5.35,9.415,89.35,23.4
+KT,Kalapitiya,Carrot,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,4,2,922,5.285,4.025,89.6,25.1
+KT,Beramana,Chili,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,5,1,976,6.155,4.185,88.2,23.3
+KT,Palagolla,Carrot,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,5,1,1246,5.435,3.9,79.85,24.1
+KT,Pundalu oya,Carrot,Mature,Agriculture,Root,Allopeas gracile,AllGra,rainy,5,1,1204,5.115,8.5,90.8,20.1
+NE,Diyagama,Leeks,Mature,Agriculture,Stem,Allopeas gracile,AllGra,non-rainy,6,1,1427,7.01,3.8,83,24.4
+NE,Diyagama,Leeks,Mature,Agriculture,Stem,Allopeas gracile,AllGra,rainy,24,5,1427,7.35,4.465,87.45,24.2
+HK,Adikarigama,Beans,Mature,Agriculture,Leaf,Ariophanta bistrialis,AriBis ,rainy,1,1,525,7.83,4.25,88.4,22.8
+NE,Agarapathana,Beans,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,0,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Beans,Mature,Agriculture,Pod,Bradybaena similaris,BraSim,rainy,1,1,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Beetroot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,4,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,7,1387,7.05,3.8,81,24.4
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,613,6.35,3.2,88,27.3
+NE,Ambewela,Beetroot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1942,6.49,9.5,83,23.5
+NE,Ambewela,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Bud,Bradybaena similaris,BraSim,non-rainy,1,2,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,rainy,1,5,1942,6.515,10.36,91.5,22.1
+NE,Ardlei,Beans,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,1,1379,6.79,5.4,90.6,21
+NE,Ardlei,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1379,6.04,3.8,81,23.8
+NE,Ardlei,Onion,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,0,1379,6.04,3.8,81,23.8
+NE,Ardlei,Potato,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,0,1379,6.04,3.8,81,23.8
+AG,Bogawanthalawa,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1313,6.86,5,77.3,22.8
+AG,Bogawanthalawa,Chinese cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1313,6.86,5,77.3,22.8
+AG,Bogawanthalawa,Banana pepper,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,2,1313,7.185,8.165,84.2,22.5
+AG,Bogawanthalawa,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1313,6.86,5,77.3,22.8
+AG,Brunswick,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,6,1310,5.37,5.2,78.7,24.7
+AG,Brunswick,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1310,5.37,5.2,78.7,24.7
+AG,Campion,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,7,1422,5.17,6.3,86.3,24.1
+AG,Campion,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1422,5.17,6.3,86.3,24.1
+HK,Elamulla,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1667,6.79,12.6,80,27.4
+HK,Elamulla,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,3,1667,6.215,11.945,86.25,23.5
+AG,Gauvaravilla,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,5,1320,4.95,7.5,84.5,23.7
+AG,Gauvaravilla,Tomato,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1320,4.95,7.5,84.5,23.7
+AG,Gorthie,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,8,1240,5.37,7.5,83.5,24.1
+AG,Hatton,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1262,5.77,5.8,73.1,24.9
+AG,Hatton,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,2,1262,6.905,5.91,82.35,24.3
+AG,Hatton,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,1,11,1262,6.905,5.91,82.35,24.3
+AG,Hebbekanda,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,790,6.35,3.3,97,25.3
+NE,Kandapola,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,0,1930,7.67,4.8,90.4,20.1
+NE,Kandapola,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,5,1930,7.67,4.8,90.4,20.1
+KT,Kikiliyamanna,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1553,7.23,4.6,84,21.2
+KT,Kikiliyamanna,German Turnip,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,0,1553,7.23,4.6,84,21.2
+NE,Kotagala,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Chili,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,10,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,5,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,5,1246,7.63,3.8,82.1,24.5
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1028,4.57,3.12,70.7,23.7
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Bud,Bradybaena similaris,BraSim,rainy,1,2,1028,4.55,2.65,88.5,20.6
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Leaf,Bradybaena similaris,BraSim,rainy,1,2,1028,4.55,2.65,88.5,20.6
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Bud,Bradybaena similaris,BraSim,non-rainy,1,1,1715,4.48,2.7,82.5,22.7
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Seedling,Bradybaena similaris,BraSim,non-rainy,1,4,1715,4.48,2.7,82.5,22.7
+WP,Lidesdialwatta,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,1,1623,5.29,9.9,85.35,22.3
+WP,Lidesdialwatta,Banana pepper,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1623,5.8,4.8,77.2,22.5
+WP,Lidesdialwatta,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1623,5.8,4.8,77.2,22.5
+NE,Lindula,Beans,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,2,1262,5.705,4.465,92.65,21.3
+NE,Lindula,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1262,6.17,3.8,87.4,24.4
+NE,Lindula,Strawberry,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1262,6.17,3.8,87.4,24.4
+KT,Mahaweligama,Chili,Nursery,Polytunnel,Seedling,Bradybaena similaris,BraSim,non-rainy,1,9,1096,6.34,1.6,81.4,23.1
+KT,Mahaweligama,Chili,Young,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,12,1096,5.78,2.575,85.3,22.7
+HK,Mandaramnuvara,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1143,7.25,11.5,90.6,24.2
+HK,Mandaramnuvara,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1143,7.25,11.5,90.6,24.2
+HK,Mandaramnuvara,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1143,7.25,11.5,90.6,24.2
+NE,Meepilimanna,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1916,6.37,9.5,85,22.2
+AG,Nallatanniya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1234,5.54,6.7,83.3,24.4
+AG,Nallatanniya,German Turnip,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,5,1234,5.395,6.885,86.65,23.8
+AG,Nallatanniya,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1234,5.54,6.7,83.3,24.4
+AG,Nallatanniya,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,3,1234,5.395,6.885,86.65,23.8
+NE,Nanu oya,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1658,6.97,11.3,78,23.4
+NE,Nanu oya,Onion,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,0,1658,6.97,11.3,78,23.4
+AG,Norwood,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1256,4.71,3.8,83.2,25.1
+NE,Nuwara Eliya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Onion,Mature,Agriculture,Flower,Bradybaena similaris,BraSim,non-rainy,1,3,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Onion,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Ornamentals,Nursery,Polytunnel,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Ornamentals,Nursery,Polytunnel,Flower,Bradybaena similaris,BraSim,rainy,1,1,1906,6.06,5.03,80.2,17.8
+KT,Pundalu oya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,4,1204,4.83,4.5,82,21.4
+NE,Seethaeliya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Leeks,Mature,Agriculture,Stem,Bradybaena similaris,BraSim,non-rainy,1,1,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Radish,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,1,7,1912,5.73,3.2,76.1,21.5
+AG,Stockholm,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1308,5.37,7.2,83.5,24.8
+NE,Talawakele,Bell pepper,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Chinese cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Banana pepper,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1206,6.82,3.8,83.9,22
+NE,Talawakele,Tomato,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,3,1206,6.82,3.8,83.9,22
+WP,Uda pussellawa,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,2,1308,5.3,4.8,78.2,23.7
+NE,Waverley,Beans,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,1,0,1388,5.31,3.8,83.3,24.4
+NE,Waverley,Potato,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,1,1,1388,6.425,4.4,89.6,23.2
+NE,Agarapathana,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,1,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,8,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Red lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,2,12,1387,7.05,3.8,81,24.4
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,14,613,6.695,3.765,90.65,24.7
+NE,Ambewela,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,6,1942,6.49,9.5,83,23.5
+NE,Ambewela,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,9,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Agriculture,Bud,Bradybaena similaris,BraSim,non-rainy,2,3,1942,6.49,9.5,83,23.5
+NE,Ardlei,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,5,1379,6.04,3.8,81,23.8
+NE,Ardlei,Potato,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,1,1379,6.79,5.4,90.6,21
+AG,Bogawanthalawa,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,8,1313,6.86,5,77.3,22.8
+AG,BogawanthalawaD,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,6,1313,6.86,5,77.7,23.5
+AG,Campion,Chili,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,17,1422,5.17,6.3,86.3,24.1
+AG,Campion,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,5,1422,5.17,6.3,86.3,24.1
+HK,Elamulla,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,8,1667,6.215,11.945,86.25,23.5
+AG,Gauvaravilla,Tomato,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,6,1320,5.35,9.415,89.35,23.4
+AG,Hatton,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,6,1262,6.905,5.91,82.35,24.3
+NE,Kandapola,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,2,1930,6.88,4.965,91.55,17.6
+KT,Kikiliyamanna,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,9,1553,7.44,8.565,86.95,20.1
+NE,Kotagala,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,2,11,1246,7.63,3.8,82.1,24.5
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Seedling,Bradybaena similaris,BraSim,non-rainy,2,1,1028,4.57,3.12,70.7,23.7
+WP,Lidesdialwatta,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,9,1623,5.29,9.9,85.35,22.3
+NE,Lindula,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,5,1262,6.17,3.8,87.4,24.4
+NE,Lindula,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,10,1262,6.17,3.8,87.4,24.4
+NE,Lindula,Strawberry,Mature,Polytunnel,Bud,Bradybaena similaris,BraSim,rainy,2,4,1262,5.705,4.465,92.65,21.3
+NE,Lindula,Strawberry,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,rainy,2,6,1262,5.705,4.465,92.65,21.3
+HK,Mandaramnuvara,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,6,1143,7.085,12.025,92.6,23.6
+HK,Mandaramnuvara,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,13,1143,7.085,12.025,92.6,23.6
+AG,Maskeliya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,6,1207,5.72,7.5,77.7,24.1
+NE,Meepilimanna,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,6,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Red lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,3,1916,6.37,9.5,85,22.2
+AG,Nallatanniya,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,8,1234,5.395,6.885,86.65,23.8
+NE,Nanu oya,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,5,1658,6.97,11.3,78,23.4
+NE,Nanu oya,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,2,13,1658,6.97,11.3,78,23.4
+NE,Nanu oya,Onion,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,1,1658,6.47,13.695,80.55,22.1
+AG,Norwood,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,5,1256,4.71,3.8,83.2,25.1
+NE,Nuwara Eliya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,5,1906,6.06,5.03,80.2,17.8
+NE,Nuwara Eliya,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,7,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,5,1906,6.1,2.7,72.8,19.3
+NE,Seethaeliya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,2,4,1912,6.06,3.935,80.6,16
+NE,Seethaeliya,Carrot,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,2,10,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Leeks,Mature,Agriculture,Stem,Bradybaena similaris,BraSim,rainy,2,6,1912,6.06,3.935,80.6,16
+NE,Talawakele,Beans,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Bell pepper,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,rainy,2,6,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,6,1206,6.82,3.8,83.9,22
+NE,Talawakele,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,2,14,1206,6.82,3.8,83.9,22
+KT,Watagoda,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,5,1214,7.03,3.8,80,21.8
+NE,Waverley,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,2,3,1388,5.31,3.8,83.3,24.4
+NE,Agarapathana,Red lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,10,1387,7.05,3.8,81,24.4
+NE,Ambewela,Beetroot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,11,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,12,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Polytunnel,Bud,Bradybaena similaris,BraSim,rainy,3,7,1942,6.515,10.36,91.5,22.1
+NE,Ardlei,Onion,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,2,1379,6.79,5.4,90.6,21
+NE,Blackpool,Cabbage,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,non-rainy,3,10,1844,6.37,9.5,85,24.3
+AG,Bogawanthalawa,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,11,1313,7.185,8.165,84.2,22.5
+AG,Bogawanthalawa,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,12,1313,7.185,8.165,84.2,22.5
+AG,BogawanthalawaD,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,10,1313,6.86,5,77.7,23.5
+AG,Campion,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,5,1422,5.75,8.9,90.25,23.4
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,9,1204,4.89,7.5,91,23.8
+AG,Gauvaravilla,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,21,1320,5.35,9.415,89.35,23.4
+AG,Hebbekanda,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,9,790,6.35,3.3,97,25.3
+NE,Kandapola,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,10,1930,7.67,4.8,90.4,20.1
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Leaf,Bradybaena similaris,BraSim,rainy,3,5,1028,4.55,2.65,88.5,20.6
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,non-rainy,3,8,1715,4.48,2.7,82.5,22.7
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Bud,Bradybaena similaris,BraSim,rainy,3,5,1715,6.095,3.95,71.85,21.3
+WP,Lidesdialwatta,Banana pepper,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,5,1623,5.29,9.9,85.35,22.3
+NE,Lindula,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,11,1262,5.705,4.465,92.65,21.3
+KT,Mahaweligama,Chili,Nursery,Polytunnel,Seedling,Bradybaena similaris,BraSim,rainy,3,38,1096,5.78,2.575,85.3,22.7
+NE,Meepilimanna,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,9,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,4,1916,5.965,10.265,87.35,21.8
+NE,Nanu oya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,9,1658,6.97,11.3,78,23.4
+NE,Nuwara Eliya,Leeks,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,3,13,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Onion,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,11,1906,6.06,5.03,80.2,17.8
+NE,Nuwara Eliya,Ornamentals,Nursery,Polytunnel,Leaf,Bradybaena similaris,BraSim,rainy,3,6,1906,6.06,5.03,80.2,17.8
+KT,Palagolla,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,10,1246,4.82,2.6,66.3,24.4
+NE,Seethaeliya,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,2,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,3,10,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,5,1912,6.06,3.935,80.6,16
+NE,Seethaeliya,Radish,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,3,32,1912,6.06,3.935,80.6,16
+NE,Talawakele,Chinese cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,6,1206,7.02,8.685,88.7,20.4
+WP,Uda pussellawa,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,7,1308,6.01,9,86.5,19.3
+NE,Waverley,Beans,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,3,2,1388,6.425,4.4,89.6,23.2
+NE,Agarapathana,Beans,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,2,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,4,10,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,4,14,1387,7.05,3.8,81,24.4
+NE,Ambewela,Strawberry,Mature,Agriculture,Seedling,Bradybaena similaris,BraSim,non-rainy,4,16,1942,6.49,9.5,83,23.5
+NE,Ardlei,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,14,1379,6.79,5.4,90.6,21
+AG,Bogawanthalawa,Chinese cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,9,1313,7.185,8.165,84.2,22.5
+AG,Brunswick,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,6,1310,5.385,6.365,84.95,23.3
+AG,Elfindale,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,4,5,1204,4.89,7.5,91,23.8
+AG,Gorthie,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,33,1240,5.49,9.415,89.7,23.5
+AG,Hebbekanda,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,9,790,5.6,4.66,98.6,25.1
+NE,Kandapola,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,4,10,1930,7.67,4.8,90.4,20.1
+KT,Kikiliyamanna,German Turnip,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,2,1553,7.44,8.565,86.95,20.1
+NE,Kotagala,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,14,1246,7.185,5.9,85.75,24.2
+NE,Kotagala,Chili,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,43,1246,7.185,5.9,85.75,24.2
+KT,Labukele,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,4,13,1715,4.48,2.7,50,22.7
+HK,Mandaramnuvara,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,14,1143,7.085,12.025,92.6,23.6
+AG,Norwood,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,15,1256,4.795,7.235,82.15,20.5
+KT,Pundalu oya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,16,1204,5.115,8.5,90.8,20.1
+NE,Talawakele,Banana pepper,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,7,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Tomato,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,4,14,1206,7.02,8.685,88.7,20.4
+NE,Agarapathana,Beetroot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,17,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,29,1387,6.775,5.39,87.85,21.2
+NE,Ambewela,Strawberry,Mature,Agriculture,Fruit,Bradybaena similaris,BraSim,non-rainy,5,12,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Seedling,Bradybaena similaris,BraSim,non-rainy,5,13,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Agriculture,Bud,Bradybaena similaris,BraSim,rainy,5,11,1942,6.515,10.36,91.5,22.1
+AG,Brunswick,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,27,1310,5.385,6.365,84.95,23.3
+AG,Campion,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,31,1422,5.75,8.9,90.25,23.4
+NE,Kandapola,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,21,1930,6.88,4.965,91.55,17.6
+NE,Kotagala,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,23,1246,7.185,5.9,85.75,24.2
+NE,Kotagala,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,20,1246,7.185,5.9,85.75,24.2
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Seedling,Bradybaena similaris,BraSim,rainy,5,9,1028,4.55,2.65,88.5,20.6
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Fruit,Bradybaena similaris,BraSim,non-rainy,5,7,1715,4.48,2.7,82.5,22.7
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Seedling,Bradybaena similaris,BraSim,rainy,5,17,1715,6.095,3.95,71.85,21.3
+AG,Nallatanniya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,13,1234,5.395,6.885,86.65,23.8
+NE,Nanu oya,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,4,1658,6.47,13.695,80.55,22.1
+NE,Nuwara Eliya,Onion,Mature,Agriculture,Flower,Bradybaena similaris,BraSim,rainy,5,14,1906,6.06,5.03,80.2,17.8
+AG,Stockholm,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,5,7,1308,5.49,8.635,87.1,23.5
+NE,Ambewela,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,6,25,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Polytunnel,Fruit,Bradybaena similaris,BraSim,non-rainy,6,11,1942,6.49,9.5,83,23.5
+AG,Campion,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,6,23,1422,5.75,8.9,90.25,23.4
+NE,Diyagama,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,6,12,1427,7.01,3.8,83,24.4
+NE,Diyagama,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,6,14,1427,7.01,3.8,83,24.4
+NE,Nanu oya,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,6,21,1658,6.47,13.695,80.55,22.1
+NE,Nanu oya,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,6,7,1658,6.97,11.3,78,23.4
+NE,Nuwara Eliya,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,6,23,1906,6.06,5.03,80.2,17.8
+NE,Seethaeliya,Carrot,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,6,45,1912,6.06,3.935,80.6,16
+NE,Talawakele,Beans,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,6,3,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,6,5,1206,7.02,8.685,88.7,20.4
+NE,Waverley,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,6,11,1388,6.425,4.4,89.6,23.2
+AG,BogawanthalawaD,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,7,27,1313,7.185,8.165,84.2,22.5
+NE,Kotagala,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,7,49,1246,7.185,5.9,85.75,24.2
+NE,Lindula,Strawberry,Mature,Polytunnel,Seedling,Bradybaena similaris,BraSim,non-rainy,7,14,1262,6.17,3.8,87.4,24.4
+NE,Meepilimanna,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,7,14,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Red lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,7,14,1916,5.965,10.265,87.35,21.8
+NE,Nuwara Eliya,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,7,32,1906,6.06,5.03,80.2,17.8
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,7,27,1206,7.02,8.685,88.7,20.4
+NE,Agarapathana,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,8,6,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,8,35,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Red lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,8,51,1387,6.775,5.39,87.85,21.2
+NE,Ardlei,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,8,23,1379,6.79,5.4,90.6,21
+AG,Campion,Chili,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,8,75,1422,5.75,8.9,90.25,23.4
+NE,Lindula,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,8,21,1262,5.705,4.465,92.65,21.3
+AG,Maskeliya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,8,26,1207,5.025,7.585,81.55,24
+NE,Meepilimanna,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,8,26,1916,5.965,10.265,87.35,21.8
+NE,Nanu oya,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,8,57,1658,6.47,13.695,80.55,22.1
+AG,Norwood,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,8,23,1256,4.795,7.235,82.15,20.5
+AG,Bogawanthalawa,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,9,34,1313,7.185,8.165,84.2,22.5
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,rainy,9,35,1715,6.095,3.95,71.85,21.3
+NE,Lindula,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,9,41,1262,5.705,4.465,92.65,21.3
+NE,Talawakele,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,9,59,1206,7.02,8.685,88.7,20.4
+KT,Watagoda,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,9,21,1214,6.985,6.915,88.1,21.6
+AG,Hebbekanda,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,10,37,790,5.6,4.66,98.6,25.1
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Fruit,Bradybaena similaris,BraSim,rainy,10,30,1715,6.095,3.95,71.85,21.3
+NE,Meepilimanna,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,10,38,1916,5.965,10.265,87.35,21.8
+NE,Nuwara Eliya,Leeks,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,10,56,1906,6.06,5.03,80.2,17.8
+NE,Seethaeliya,Carrot,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,10,7,1912,6.06,3.935,80.6,16
+NE,Seethaeliya,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,10,41,1912,6.06,3.935,80.6,16
+NE,Ambewela,Strawberry,Mature,Polytunnel,Fruit,Bradybaena similaris,BraSim,rainy,11,46,1942,6.515,10.36,91.5,22.1
+AG,BogawanthalawaD,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,11,41,1313,7.185,8.165,84.2,22.5
+KT,Labukele,Cabbage,Young,Agriculture,Leaf,Bradybaena similaris,BraSim,non-rainy,11,10,1715,4.48,2.7,50,22.7
+NE,Lindula,Strawberry,Mature,Polytunnel,Fruit,Bradybaena similaris,BraSim,non-rainy,11,7,1262,6.17,3.8,87.4,24.4
+NE,Agarapathana,Red lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,12,41,1387,6.775,5.39,87.85,21.2
+NE,Blackpool,Cabbage,Mature,Polytunnel,Leaf,Bradybaena similaris,BraSim,rainy,12,42,1844,6.44,10.255,86.6,22.1
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,12,39,1204,4.95,8.95,95.6,23.1
+NE,Kandapola,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,12,41,1930,6.88,4.965,91.55,17.6
+NE,Nanu oya,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,12,38,1658,6.47,13.695,80.55,22.1
+KT,Palagolla,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,12,43,1246,5.435,3.9,79.85,24.1
+NE,Ambewela,Strawberry,Mature,Polytunnel,Seedling,Bradybaena similaris,BraSim,rainy,13,57,1942,6.515,10.36,91.5,22.1
+NE,Lindula,Strawberry,Mature,Polytunnel,Fruit,Bradybaena similaris,BraSim,rainy,13,32,1262,5.705,4.465,92.65,21.3
+AG,Elfindale,Radish,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,14,23,1204,4.95,8.95,95.6,23.1
+NE,Agarapathana,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,15,42,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Lettuce,Nursery,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,15,59,1387,6.775,5.39,87.85,21.2
+NE,Kandapola,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,15,43,1930,6.88,4.965,91.55,17.6
+NE,Lindula,Strawberry,Mature,Polytunnel,Seedling,Bradybaena similaris,BraSim,rainy,15,61,1262,5.705,4.465,92.65,21.3
+NE,Ambewela,Strawberry,Mature,Agriculture,Fruit,Bradybaena similaris,BraSim,rainy,17,53,1942,6.515,10.36,91.5,22.1
+KT,Labukele,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,17,57,1715,6.095,3.95,71.85,22.3
+NE,Ambewela,Strawberry,Mature,Agriculture,Seedling,Bradybaena similaris,BraSim,rainy,20,70,1942,6.515,10.36,91.5,22.1
+NE,Diyagama,Cabbage,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,22,51,1427,7.35,4.465,87.45,24.2
+NE,Nanu oya,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,23,31,1658,6.47,13.695,80.55,22.1
+NE,Diyagama,Leeks,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,24,61,1427,7.35,4.465,87.45,24.2
+NE,Meepilimanna,Lettuce,Mature,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,28,60,1916,5.965,10.265,87.35,21.8
+KT,Labukele,Cabbage,Young,Agriculture,Leaf,Bradybaena similaris,BraSim,rainy,42,45,1715,6.095,3.95,71.85,22.3
+NE,Agarapathana,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,1,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,3,1387,7.05,3.8,81,24.4
+NE,Ambewela,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,5,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Agriculture,Fruit,Deroceras laeve,DerLae,non-rainy,1,2,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Fruit,Deroceras laeve,DerLae,non-rainy,1,1,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Leaf,Deroceras laeve,DerLae,non-rainy,1,0,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Agriculture,Bud,Deroceras laeve,DerLae,rainy,1,2,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,2,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Polytunnel,Bud,Deroceras laeve,DerLae,rainy,1,1,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Polytunnel,Leaf,Deroceras laeve,DerLae,rainy,1,1,1942,6.515,10.36,91.5,22.1
+NE,Ardlei,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,7,1379,6.04,3.8,81,23.8
+NE,Ardlei,Onion,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,0,1379,6.04,3.8,81,23.8
+AG,Bogawanthalawa,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,3,1313,6.86,5,77.3,22.8
+AG,Bogawanthalawa,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,3,1313,7.185,8.165,84.2,22.5
+AG,BogawanthalawaD,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,4,1313,7.185,8.165,84.2,22.5
+AG,Campion,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,8,1422,5.75,8.9,90.25,23.4
+NE,Diyagama,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,1,1427,7.01,3.8,83,24.4
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,1,1204,4.95,8.95,95.6,23.1
+AG,Gauvaravilla,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,2,1320,5.35,9.415,89.35,23.4
+AG,Hatton,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,7,1262,6.905,5.91,82.35,24.3
+AG,Hatton,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,5,1262,6.905,5.91,82.35,24.3
+HK,Hewaheta,Chili,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,3,1135,5.995,2.63,80.75,22.4
+KT,Kikiliyamanna,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,1,1553,7.44,8.565,86.95,20.1
+NE,Kotagala,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,3,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,3,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Lettuce,Nursery,Agriculture,Seedling,Deroceras laeve,DerLae,non-rainy,1,3,1246,7.63,3.8,82.1,24.5
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Fruit,Deroceras laeve,DerLae,non-rainy,1,1,1715,4.48,2.7,82.5,22.7
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Leaf,Deroceras laeve,DerLae,non-rainy,1,1,1715,4.48,2.7,82.5,22.7
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Bud,Deroceras laeve,DerLae,rainy,1,1,1715,6.095,3.95,71.85,21.3
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Seedling,Deroceras laeve,DerLae,rainy,1,4,1715,6.095,3.95,71.85,21.3
+NE,Lindula,Strawberry,Mature,Polytunnel,Seedling,Deroceras laeve,DerLae,non-rainy,1,3,1262,6.17,3.8,87.4,24.4
+NE,Lindula,Strawberry,Mature,Polytunnel,Leaf,Deroceras laeve,DerLae,rainy,1,2,1262,5.705,4.465,92.65,21.3
+HK,Mandaramnuvara,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,6,1143,7.085,12.025,92.6,23.6
+HK,Mandaramnuvara,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,3,1143,7.085,12.025,92.6,23.6
+NE,Meepilimanna,Gherkin,Mature,Polytunnel,Leaf,Deroceras laeve,DerLae,rainy,1,3,1916,5.965,10.265,87.35,21.8
+NE,Meepilimanna,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,7,1916,5.965,10.265,87.35,21.8
+NE,Meepilimanna,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,1,1916,6.37,9.5,85,22.2
+HK,Mool oya,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,9,1395,5.25,2.615,85.2,19.6
+AG,Nallatanniya,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,1,1234,5.395,6.885,86.65,23.8
+AG,Nallatanniya,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,11,1234,5.395,6.885,86.65,23.8
+NE,Nanu oya,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,non-rainy,1,1,1658,6.97,11.3,78,23.4
+NE,Nanu oya,Lettuce,Nursery,Agriculture,Seedling,Deroceras laeve,DerLae,non-rainy,1,1,1658,6.97,11.3,78,23.4
+AG,Norwood,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,4,1256,4.795,7.235,82.15,20.5
+NE,Nuwara Eliya,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,2,1906,6.06,5.03,80.2,17.8
+NE,Nuwara Eliya,Leeks,Nursery,Agriculture,Seedling,Deroceras laeve,DerLae,non-rainy,1,2,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,5,1906,6.06,5.03,80.2,17.8
+NE,Nuwara Eliya,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,7,1906,6.06,5.03,80.2,17.8
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,1,5,1206,7.02,8.685,88.7,20.4
+NE,Agarapathana,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,2,5,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,2,12,1387,6.775,5.39,87.85,21.2
+NE,Ambewela,Strawberry,Mature,Agriculture,Seedling,Deroceras laeve,DerLae,non-rainy,2,3,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Fruit,Deroceras laeve,DerLae,rainy,2,5,1942,6.515,10.36,91.5,22.1
+NE,Ardlei,Onion,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,2,1,1379,6.79,5.4,90.6,21
+AG,Bogawanthalawa,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,2,12,1313,7.185,8.165,84.2,22.5
+NE,Kotagala,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,2,14,1246,7.185,5.9,85.75,24.2
+NE,Kotagala,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,2,11,1246,7.185,5.9,85.75,24.2
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Fruit,Deroceras laeve,DerLae,rainy,2,5,1715,6.095,3.95,71.85,21.3
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Leaf,Deroceras laeve,DerLae,rainy,2,4,1715,6.095,3.95,71.85,21.3
+NE,Lindula,Strawberry,Mature,Polytunnel,Bud,Deroceras laeve,DerLae,rainy,2,1,1262,5.705,4.465,92.65,21.3
+NE,Meepilimanna,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,2,6,1916,5.965,10.265,87.35,21.8
+NE,Nanu oya,Lettuce,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,2,4,1658,6.47,13.695,80.55,22.1
+NE,Nanu oya,Lettuce,Nursery,Agriculture,Seedling,Deroceras laeve,DerLae,rainy,2,5,1658,6.47,13.695,80.55,22.1
+NE,Nuwara Eliya,Leeks,Nursery,Agriculture,Seedling,Deroceras laeve,DerLae,rainy,2,8,1906,6.06,5.03,80.2,17.8
+NE,Ambewela,Strawberry,Mature,Polytunnel,Seedling,Deroceras laeve,DerLae,rainy,3,9,1942,6.515,10.36,91.5,22.1
+NE,Kotagala,Lettuce,Nursery,Agriculture,Seedling,Deroceras laeve,DerLae,rainy,3,11,1246,7.185,5.9,85.75,24.2
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Seedling,Deroceras laeve,DerLae,non-rainy,3,5,1715,4.48,2.7,82.5,22.7
+NE,Lindula,Strawberry,Mature,Polytunnel,Fruit,Deroceras laeve,DerLae,rainy,3,2,1262,5.705,4.465,92.65,21.3
+NE,Ambewela,Strawberry,Mature,Agriculture,Fruit,Deroceras laeve,DerLae,rainy,4,9,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Agriculture,Seedling,Deroceras laeve,DerLae,rainy,5,13,1942,6.515,10.36,91.5,22.1
+NE,Ardlei,Leeks,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,5,31,1379,6.79,5.4,90.6,21
+NE,Diyagama,Cabbage,Mature,Agriculture,Leaf,Deroceras laeve,DerLae,rainy,5,4,1427,7.35,4.465,87.45,24.2
+NE,Lindula,Strawberry,Mature,Polytunnel,Seedling,Deroceras laeve,DerLae,rainy,5,14,1262,5.705,4.465,92.65,21.3
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Seedling,Deroceras laeve,DerLae,rainy,8,20,1715,6.095,3.95,71.85,21.3
+NE,Ambewela,Beetroot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,3,1942,6.49,9.5,83,23.5
+NE,Ambewela,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Agriculture,Bud,Deroceras reticulatum,DerRet,non-rainy,1,2,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Bud,Deroceras reticulatum,DerRet,non-rainy,1,2,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,2,1942,6.49,9.5,83,23.5
+NE,Ardlei,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1379,6.04,3.8,81,23.8
+NE,Blackpool,Carrot,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1844,6.37,9.5,85,24.3
+AG,Bloomfield,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,5,1096,5.37,1,52.1,23.7
+AG,Bogawanthalawa,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1313,6.86,5,77.3,22.8
+AG,Bogawanthalawa,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1313,6.86,5,77.3,22.8
+AG,BogawanthalawaD,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1313,6.86,5,77.7,23.5
+AG,Campion,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1422,5.17,6.3,86.3,24.1
+AG,Campion,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1422,5.17,6.3,86.3,24.1
+NE,Diyagama,Cabbage,Mature,Agriculture,Root,Deroceras reticulatum,DerRet,non-rainy,1,0,1427,7.01,3.8,83,24.4
+AG,Gauvaravilla,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,4,1320,4.95,7.5,84.5,23.7
+AG,Glenugie,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,4,1327,5.37,7.5,83.5,24.2
+AG,Gorthie,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,3,1240,5.37,7.5,83.5,24.1
+AG,Hatton,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,3,1262,5.77,5.8,73.1,24.9
+AG,Hatton,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,3,1262,5.77,5.8,73.1,24.9
+AG,Hatton,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,1,6,1262,6.905,5.91,82.35,24.3
+AG,Hatton,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,1,12,1262,6.905,5.91,82.35,24.3
+NE,Kandapola,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1930,7.67,4.8,90.4,20.1
+KT,Kikiliyamanna,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,2,1553,7.23,4.6,84,21.2
+NE,Kotagala,Broccoli,Mature,Agriculture,Flower,Deroceras reticulatum,DerRet,non-rainy,1,2,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Broccoli,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,non-rainy,1,2,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Broccoli,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Chinese cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,German Turnip,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1246,7.63,3.8,82.1,24.5
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Bud,Deroceras reticulatum,DerRet,non-rainy,1,1,1715,4.48,2.7,82.5,22.7
+WP,Lidesdialwatta,Banana pepper,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1623,5.8,4.8,77.2,22.5
+WP,Lidesdialwatta,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,5,1623,5.8,4.8,77.2,22.5
+NE,Lindula,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1262,6.17,3.8,87.4,24.4
+NE,Lindula,Strawberry,Mature,Polytunnel,Bud,Deroceras reticulatum,DerRet,non-rainy,1,3,1262,6.17,3.8,87.4,24.4
+HK,Mandaramnuvara,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,3,1143,7.25,11.5,90.6,24.2
+HK,Mandaramnuvara,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1143,7.25,11.5,90.6,24.2
+AG,Marussakelle,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1150,5.68,5.5,80.5,26.9
+AG,Maskeliya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1207,5.72,7.5,77.7,24.1
+AG,Maskeliya,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1207,5.72,7.5,77.7,24.1
+NE,Meepilimanna,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,1,1,1916,5.965,10.265,87.35,21.8
+NE,Meepilimanna,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,3,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Zucchini,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,non-rainy,1,1,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Zucchini,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1916,6.37,9.5,85,22.2
+AG,Nallatanniya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1234,5.54,6.7,83.3,24.4
+AG,Nallatanniya,German Turnip,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,1,2,1234,5.395,6.885,86.65,23.8
+AG,Nallatanniya,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,3,1234,5.54,6.7,83.3,24.4
+AG,Nallatanniya,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,1,3,1234,5.395,6.885,86.65,23.8
+NE,Nanu oya,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1658,6.97,11.3,78,23.4
+NE,Nuwara Eliya,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Onion,Mature,Agriculture,Flower,Deroceras reticulatum,DerRet,non-rainy,1,2,1906,6.1,2.7,72.8,19.3
+AG,Rozella,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1136,5.77,5.6,77.5,24.5
+NE,Seethaeliya,Cabbage,Mature,Agriculture,Root,Deroceras reticulatum,DerRet,non-rainy,1,1,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1912,5.73,3.2,76.1,21.5
+NE,Talawakele,Beans,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,0,1206,6.82,3.8,83.9,22
+NE,Talawakele,Zucchini,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,non-rainy,1,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Zucchini,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,1,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Tomato,Mature,Agriculture,Flower,Deroceras reticulatum,DerRet,rainy,1,4,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Tomato,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,rainy,1,6,1206,7.02,8.685,88.7,20.4
+NE,Waverley,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,1,1,1388,6.425,4.4,89.6,23.2
+NE,Waverley,Leeks,Mature,Agriculture,Stem,Deroceras reticulatum,DerRet,non-rainy,1,0,1388,5.31,3.8,83.3,24.4
+NE,Agarapathana,Beans,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,2,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,7,1387,7.05,3.8,81,24.4
+NE,Ambewela,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,8,1942,6.49,9.5,83,23.5
+NE,Ambewela,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,1,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,3,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Agriculture,Bud,Deroceras reticulatum,DerRet,rainy,2,8,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Polytunnel,Bud,Deroceras reticulatum,DerRet,rainy,2,9,1942,6.515,10.36,91.5,22.1
+NE,Ardlei,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,5,1379,6.04,3.8,81,23.8
+NE,Ardlei,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,1,1379,6.79,5.4,90.6,21
+NE,Ardlei,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,1,1379,6.04,3.8,81,23.8
+NE,Blackpool,Carrot,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,rainy,2,1,1844,6.44,10.255,86.6,22.1
+AG,Bogawanthalawa,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,1,1313,7.185,8.165,84.2,22.5
+AG,Bogawanthalawa,Chinese cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,1,1313,6.86,5,77.3,22.8
+AG,Bogawanthalawa,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,5,1313,6.86,5,77.3,22.8
+AG,BogawanthalawaD,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,3,1313,6.86,5,77.7,23.5
+AG,Brunswick,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,5,1310,5.37,5.2,78.7,24.7
+AG,Campion,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,5,1422,5.17,6.3,86.3,24.1
+AG,Campion,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,10,1422,5.17,6.3,86.3,24.1
+AG,Elfindale,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,3,1204,4.89,7.5,91,23.8
+KT,Kikiliyamanna,German Turnip,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,1,1553,7.23,4.6,84,21.2
+NE,Kotagala,Broccoli,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,rainy,2,7,1246,7.185,5.9,85.75,24.2
+NE,Kotagala,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,4,1246,7.63,3.8,82.1,24.5
+NE,Kotagala,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,5,1246,7.63,3.8,82.1,24.5
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Bud,Deroceras reticulatum,DerRet,rainy,2,6,1715,6.095,3.95,71.85,21.3
+WP,Lidesdialwatta,Banana pepper,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,1,1623,5.29,9.9,85.35,22.3
+NE,Lindula,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,4,1262,6.17,3.8,87.4,24.4
+NE,Lindula,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,1,1262,5.705,4.465,92.65,21.3
+NE,Lindula,Strawberry,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,3,1262,6.17,3.8,87.4,24.4
+HK,Mandaramnuvara,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,6,1143,7.25,11.5,90.6,24.2
+HK,Mandaramnuvara,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,12,1143,7.085,12.025,92.6,23.6
+HK,Mandaramnuvara,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,5,1143,7.085,12.025,92.6,23.6
+AG,Marussakelle,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,6,1150,5.115,6.175,81.9,24.4
+AG,Maskeliya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,3,1207,5.025,7.585,81.55,24
+AG,Maskeliya,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,6,1207,5.025,7.585,81.55,24
+NE,Meepilimanna,Gherkin,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,3,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Zucchini,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,rainy,2,3,1916,5.965,10.265,87.35,21.8
+AG,Midford,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,2,981,5.37,7.1,83.5,25.1
+AG,Norwood,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,2,1256,4.71,3.8,83.2,25.1
+AG,Norwood,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,7,1256,4.71,3.8,83.2,25.1
+NE,Nuwara Eliya,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,1,1906,6.06,5.03,80.2,17.8
+NE,Nuwara Eliya,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,5,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Onion,Mature,Agriculture,Flower,Deroceras reticulatum,DerRet,rainy,2,7,1906,6.06,5.03,80.2,17.8
+KT,Pundalu oya,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,1,1204,4.83,4.5,82,21.4
+AG,Stockholm,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,1,1308,5.37,7.2,83.5,24.8
+NE,Talawakele,Beans,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,2,1,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,2,1206,6.82,3.8,83.9,22
+NE,Talawakele,Chinese cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,6,1206,6.82,3.8,83.9,22
+NE,Talawakele,Zucchini,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,2,6,1206,6.82,3.8,83.9,22
+NE,Talawakele,Zucchini,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,rainy,2,5,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Tomato,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,2,3,1206,6.82,3.8,83.9,22
+NE,Waverley,Leeks,Mature,Agriculture,Stem,Deroceras reticulatum,DerRet,rainy,2,1,1388,6.425,4.4,89.6,23.2
+NE,Agarapathana,Beetroot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,6,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,1,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,8,1387,7.05,3.8,81,24.4
+NE,Ambewela,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,13,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,rainy,3,8,1942,6.515,10.36,91.5,22.1
+NE,Ardlei,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,14,1379,6.04,3.8,81,23.8
+AG,Bogawanthalawa,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,14,1313,6.86,5,77.3,22.8
+AG,Bogawanthalawa,Leeks,Mature,Agriculture,Stem,Deroceras reticulatum,DerRet,non-rainy,3,4,1313,6.86,5,77.3,22.8
+AG,Bogawanthalawa,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,3,3,1313,7.185,8.165,84.2,22.5
+AG,BogawanthalawaD,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,3,2,1313,7.185,8.165,84.2,22.5
+AG,Campion,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,3,5,1422,5.75,8.9,90.25,23.4
+NE,Diyagama,Cabbage,Mature,Agriculture,Root,Deroceras reticulatum,DerRet,rainy,3,2,1427,7.35,4.465,87.45,24.2
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,6,1204,4.89,7.5,91,23.8
+NE,Kandapola,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,10,1930,7.67,4.8,90.4,20.1
+NE,Kotagala,Broccoli,Mature,Agriculture,Flower,Deroceras reticulatum,DerRet,rainy,3,9,1246,7.185,5.9,85.75,24.2
+NE,Kotagala,Broccoli,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,3,6,1246,7.185,5.9,85.75,24.2
+NE,Kotagala,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,10,1246,7.63,3.8,82.1,24.5
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,9,1715,4.48,2.7,82.5,22.7
+NE,Lindula,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,11,1262,6.17,3.8,87.4,24.4
+NE,Lindula,Strawberry,Mature,Polytunnel,Bud,Deroceras reticulatum,DerRet,rainy,3,13,1262,5.705,4.465,92.65,21.3
+NE,Meepilimanna,Red lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,4,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Zucchini,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,3,9,1916,6.37,9.5,85,22.2
+AG,Nallatanniya,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,3,12,1234,5.395,6.885,86.65,23.8
+KT,Pundalu oya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,5,1204,4.83,4.5,82,21.4
+AG,Rozella,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,3,5,1136,6.905,5.835,84.45,24.2
+NE,Seethaeliya,Leeks,Mature,Agriculture,Stem,Deroceras reticulatum,DerRet,non-rainy,3,3,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,10,1912,5.73,3.2,76.1,21.5
+NE,Talawakele,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,3,13,1206,6.82,3.8,83.9,22
+NE,Talawakele,Zucchini,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,3,5,1206,7.02,8.685,88.7,20.4
+NE,Waverley,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,3,8,1388,5.31,3.8,83.3,24.4
+NE,Agarapathana,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,4,10,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Red lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,4,3,1387,7.05,3.8,81,24.4
+NE,Agarapathana,Red lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,4,13,1387,7.05,3.8,81,24.4
+AG,BogawanthalawaD,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,4,8,1313,6.86,5,77.7,23.5
+AG,Gorthie,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,4,14,1240,5.49,9.415,89.7,23.5
+AG,Hatton,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,4,12,1262,6.905,5.91,82.35,24.3
+NE,Kotagala,Chinese cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,4,4,1246,7.185,5.9,85.75,24.2
+NE,Kotagala,German Turnip,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,4,3,1246,7.185,5.9,85.75,24.2
+NE,Kotagala,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,4,14,1246,7.63,3.8,82.1,24.5
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Fruit,Deroceras reticulatum,DerRet,non-rainy,4,10,1715,4.48,2.7,82.5,22.7
+WP,Lidesdialwatta,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,4,21,1623,5.29,9.9,85.35,22.3
+NE,Meepilimanna,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,4,7,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,4,12,1916,6.37,9.5,85,22.2
+AG,Nallatanniya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,4,6,1234,5.395,6.885,86.65,23.8
+NE,Nanu oya,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,4,6,1658,6.47,13.695,80.55,22.1
+NE,Nuwara Eliya,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,4,9,1906,6.1,2.7,72.8,19.3
+NE,Waverley,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,4,9,1388,5.31,3.8,83.3,24.4
+NE,Ambewela,Beetroot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,11,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,non-rainy,5,16,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Polytunnel,Fruit,Deroceras reticulatum,DerRet,non-rainy,5,10,1942,6.49,9.5,83,23.5
+NE,Ambewela,Strawberry,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,15,1942,6.515,10.36,91.5,22.1
+AG,Bloomfield,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,23,1096,5.385,5.835,72.9,22.7
+AG,Campion,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,4,1422,5.75,8.9,90.25,23.4
+AG,Gauvaravilla,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,18,1320,5.35,9.415,89.35,23.4
+AG,Glenugie,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,16,1327,5.49,9.415,89.1,23.5
+AG,Hatton,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,11,1262,6.905,5.91,82.35,24.3
+NE,Kandapola,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,3,1930,6.88,4.965,91.55,17.6
+KT,Kikiliyamanna,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,9,1553,7.44,8.565,86.95,20.1
+NE,Lindula,Strawberry,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,rainy,5,12,1262,5.705,4.465,92.65,21.3
+NE,Meepilimanna,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,5,16,1916,6.37,9.5,85,22.2
+NE,Meepilimanna,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,11,1916,5.965,10.265,87.35,21.8
+NE,Meepilimanna,Zucchini,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,4,1916,5.965,10.265,87.35,21.8
+NE,Nanu oya,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,5,16,1658,6.97,11.3,78,23.4
+NE,Nanu oya,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,5,6,1658,6.97,11.3,78,23.4
+NE,Nuwara Eliya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,5,7,1906,6.1,2.7,72.8,19.3
+NE,Seethaeliya,Cabbage,Mature,Agriculture,Root,Deroceras reticulatum,DerRet,rainy,5,6,1912,6.06,3.935,80.6,16
+NE,Seethaeliya,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,5,2,1912,6.06,3.935,80.6,16
+NE,Ardlei,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,6,5,1379,6.79,5.4,90.6,21
+NE,Blackpool,Cabbage,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,non-rainy,6,13,1844,6.37,9.5,85,24.3
+AG,Bogawanthalawa,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,6,12,1313,6.86,5,77.3,22.8
+AG,BogawanthalawaD,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,6,18,1313,6.86,5,77.7,23.5
+NE,Diyagama,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,6,13,1427,7.01,3.8,83,24.4
+AG,Elfindale,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,6,12,1204,4.95,8.95,95.6,23.1
+NE,Kandapola,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,6,10,1930,7.67,4.8,90.4,20.1
+NE,Lindula,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,6,18,1262,6.17,3.8,87.4,24.4
+NE,Lindula,Strawberry,Mature,Polytunnel,Seedling,Deroceras reticulatum,DerRet,non-rainy,6,17,1262,6.17,3.8,87.4,24.4
+HK,Mandaramnuvara,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,6,27,1143,7.085,12.025,92.6,23.6
+AG,Midford,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,6,9,981,5.49,8.585,89.35,23.5
+NE,Nanu oya,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,6,1,1658,6.97,11.3,78,23.4
+AG,Norwood,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,6,9,1256,4.795,7.235,82.15,20.5
+NE,Seethaeliya,Radish,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,6,8,1912,5.73,3.2,76.1,21.5
+AG,Stockholm,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,6,4,1308,5.49,8.635,87.1,23.5
+NE,Talawakele,Zucchini,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,6,24,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Tomato,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,6,11,1206,7.02,8.685,88.7,20.4
+NE,Agarapathana,Beans,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,7,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,30,1387,6.775,5.39,87.85,21.2
+NE,Ambewela,Strawberry,Mature,Polytunnel,Seedling,Deroceras reticulatum,DerRet,non-rainy,7,17,1942,6.49,9.5,83,23.5
+NE,Ardlei,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,21,1379,6.79,5.4,90.6,21
+AG,Bogawanthalawa,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,21,1313,7.185,8.165,84.2,22.5
+AG,Brunswick,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,23,1310,5.385,6.365,84.95,23.3
+NE,Diyagama,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,7,20,1427,7.01,3.8,83,24.4
+NE,Kotagala,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,23,1246,7.185,5.9,85.75,24.2
+NE,Lindula,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,19,1262,5.705,4.465,92.65,21.3
+NE,Meepilimanna,Gherkin,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,rainy,7,12,1916,5.965,10.265,87.35,21.8
+AG,Norwood,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,31,1256,4.795,7.235,82.15,20.5
+NE,Nuwara Eliya,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,7,21,1906,6.06,5.03,80.2,17.8
+NE,Agarapathana,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,8,12,1387,7.05,3.8,81,24.4
+AG,Campion,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,8,22,1422,5.75,8.9,90.25,23.4
+KT,Kikiliyamanna,German Turnip,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,8,5,1553,7.44,8.565,86.95,20.1
+NE,Kotagala,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,8,17,1246,7.185,5.9,85.75,24.2
+NE,Lindula,Strawberry,Mature,Polytunnel,Fruit,Deroceras reticulatum,DerRet,non-rainy,8,10,1262,6.17,3.8,87.4,24.4
+NE,Nuwara Eliya,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,8,14,1906,6.1,2.7,72.8,19.3
+KT,Pundalu oya,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,8,4,1204,5.115,8.5,90.8,20.1
+NE,Talawakele,Chinese cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,8,6,1206,7.02,8.685,88.7,20.4
+NE,Ambewela,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,9,35,1942,6.515,10.36,91.5,22.1
+AG,Bogawanthalawa,Chinese cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,9,3,1313,7.185,8.165,84.2,22.5
+AG,BogawanthalawaD,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,9,12,1313,7.185,8.165,84.2,22.5
+AG,Campion,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,9,45,1422,5.75,8.9,90.25,23.4
+NE,Kandapola,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,9,21,1930,7.67,4.8,90.4,20.1
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,9,8,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,9,25,1206,7.02,8.685,88.7,20.4
+NE,Agarapathana,Beetroot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,10,26,1387,6.775,5.39,87.85,21.2
+NE,Ambewela,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,10,58,1942,6.515,10.36,91.5,22.1
+NE,Seethaeliya,Leeks,Mature,Agriculture,Stem,Deroceras reticulatum,DerRet,rainy,10,14,1912,6.06,3.935,80.6,16
+NE,Seethaeliya,Radish,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,10,41,1912,6.06,3.935,80.6,16
+NE,Agarapathana,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,11,36,1387,6.775,5.39,87.85,21.2
+NE,Ardlei,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,11,59,1379,6.79,5.4,90.6,21
+AG,Bogawanthalawa,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,11,61,1313,7.185,8.165,84.2,22.5
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,11,24,1204,4.95,8.95,95.6,23.1
+NE,Meepilimanna,Red lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,11,16,1916,5.965,10.265,87.35,21.8
+NE,Meepilimanna,Zucchini,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,11,37,1916,5.965,10.265,87.35,21.8
+KT,Pundalu oya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,11,23,1204,5.115,8.5,90.8,20.1
+NE,Talawakele,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,11,57,1206,7.02,8.685,88.7,20.4
+NE,Agarapathana,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,12,5,1387,6.775,5.39,87.85,21.2
+NE,Ambewela,Strawberry,Mature,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,12,19,1942,6.49,9.5,83,23.5
+NE,Kandapola,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,12,41,1930,6.88,4.965,91.55,17.6
+NE,Kotagala,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,12,43,1246,7.185,5.9,85.75,24.2
+NE,Waverley,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,12,36,1388,6.425,4.4,89.6,23.2
+AG,Bogawanthalawa,Leeks,Mature,Agriculture,Stem,Deroceras reticulatum,DerRet,rainy,13,16,1313,7.185,8.165,84.2,22.5
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,rainy,13,37,1715,6.095,3.95,71.85,21.3
+NE,Lindula,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,13,47,1262,5.705,4.465,92.65,21.3
+NE,Agarapathana,Red lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,14,56,1387,6.775,5.39,87.85,21.2
+NE,Ambewela,Strawberry,Mature,Polytunnel,Fruit,Deroceras reticulatum,DerRet,rainy,14,41,1942,6.515,10.36,91.5,22.1
+NE,Lindula,Strawberry,Mature,Polytunnel,Fruit,Deroceras reticulatum,DerRet,rainy,14,45,1262,5.705,4.465,92.65,21.3
+NE,Waverley,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,14,37,1388,6.425,4.4,89.6,23.2
+NE,Agarapathana,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,15,41,1387,6.775,5.39,87.85,21.2
+NE,Agarapathana,Red lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,15,12,1387,6.775,5.39,87.85,21.2
+NE,Meepilimanna,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,15,32,1916,5.965,10.265,87.35,21.8
+NE,Meepilimanna,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,15,51,1916,5.965,10.265,87.35,21.8
+NE,Nanu oya,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,15,22,1658,6.97,11.3,78,23.4
+AG,BogawanthalawaD,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,16,36,1313,7.185,8.165,84.2,22.5
+NE,Kotagala,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,16,61,1246,7.185,5.9,85.75,24.2
+KT,Kudaoya,Strawberry,Mature,Polytunnel,Fruit,Deroceras reticulatum,DerRet,rainy,16,45,1715,6.095,3.95,71.85,21.3
+NE,Nuwara Eliya,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,16,39,1906,6.06,5.03,80.2,17.8
+NE,Nanu oya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,18,14,1658,6.97,11.3,78,23.4
+NE,Nanu oya,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,18,18,1658,6.97,11.3,78,23.4
+NE,Nuwara Eliya,Leeks,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,19,19,1906,6.1,2.7,72.8,19.3
+NE,Meepilimanna,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,20,70,1916,5.965,10.265,87.35,21.8
+NE,Nanu oya,Lettuce,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,20,70,1658,6.47,13.695,80.55,22.1
+NE,Nanu oya,Onion,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,20,25,1658,6.47,13.695,80.55,22.1
+NE,Nuwara Eliya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,20,31,1906,6.06,5.03,80.2,17.8
+NE,Ambewela,Strawberry,Mature,Agriculture,Fruit,Deroceras reticulatum,DerRet,rainy,21,68,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Strawberry,Mature,Polytunnel,Seedling,Deroceras reticulatum,DerRet,rainy,21,73,1942,6.515,10.36,91.5,22.1
+AG,BogawanthalawaD,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,23,76,1313,7.185,8.165,84.2,22.5
+NE,Nanu oya,Carrot,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,23,5,1658,6.47,13.695,80.55,22.1
+NE,Seethaeliya,Radish,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,23,36,1912,6.06,3.935,80.6,16
+AG,Bogawanthalawa,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,24,51,1313,7.185,8.165,84.2,22.5
+NE,Blackpool,Cabbage,Mature,Polytunnel,Leaf,Deroceras reticulatum,DerRet,rainy,25,57,1844,6.44,10.255,86.6,22.1
+NE,Diyagama,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,25,57,1427,7.35,4.465,87.45,24.2
+NE,Kandapola,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,25,41,1930,6.88,4.965,91.55,17.6
+NE,Lindula,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,25,78,1262,5.705,4.465,92.65,21.3
+NE,Seethaeliya,Carrot,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,non-rainy,25,20,1912,5.73,3.2,76.1,21.5
+NE,Lindula,Strawberry,Mature,Polytunnel,Seedling,Deroceras reticulatum,DerRet,rainy,26,75,1262,5.705,4.465,92.65,21.3
+NE,Diyagama,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,28,87,1427,7.35,4.465,87.45,24.2
+NE,Agarapathana,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,30,52,1387,6.775,5.39,87.85,21.2
+NE,Ambewela,Strawberry,Mature,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,30,81,1942,6.515,10.36,91.5,22.1
+NE,Nuwara Eliya,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,30,61,1906,6.06,5.03,80.2,17.8
+NE,Kandapola,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,35,89,1930,6.88,4.965,91.55,17.6
+NE,Seethaeliya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,38,21,1912,5.73,3.2,76.1,21.5
+NE,Nanu oya,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,60,96,1658,6.47,13.695,80.55,22.1
+NE,Nanu oya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,70,61,1658,6.47,13.695,80.55,22.1
+NE,Nanu oya,Lettuce,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,72,79,1658,6.47,13.695,80.55,22.1
+NE,Nuwara Eliya,Leeks,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,75,81,1906,6.06,5.03,80.2,17.8
+NE,Seethaeliya,Carrot,Nursery,Agriculture,Seedling,Deroceras reticulatum,DerRet,rainy,100,85,1912,6.06,3.935,80.6,16
+NE,Seethaeliya,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,non-rainy,105,22,1912,5.73,3.2,76.1,21.5
+NE,Seethaeliya,Cabbage,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,150,89,1912,6.06,3.935,80.6,16
+NE,Seethaeliya,Leeks,Mature,Agriculture,Leaf,Deroceras reticulatum,DerRet,rainy,420,95,1912,6.06,3.935,80.6,16
+WP,Keenagolla,Cabbage,Mature,Agriculture,Leaf,Euplecta emiliana,EupEmi,rainy,1,2,869,6.61,4.3,87.75,22.3
+WP,Udagama,Cabbage,Mature,Agriculture,Leaf,Euplecta emiliana,EupEmi,rainy,1,1,1318,5.095,6.915,86.95,22.5
+HK,Adikarigama,Beans,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,1,5,525,7.83,4.25,88.4,22.8
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,non-rainy,1,1,613,6.35,3.2,88,27.3
+WP,Ambagaspitiya,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,non-rainy,1,1,731,5.84,1.8,84.3,27.3
+WP,Ambagaspitiya,Tomato,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,1,3,731,6.105,7.065,83.4,23.7
+KT,Beramana,Chili,Nursery,Agriculture,Seedling,Leavicaulis alte,LeaAlt,non-rainy,1,3,976,6.23,1.6,78.2,25.1
+HK,Mandaramnuvara,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,1,2,1143,7.085,12.025,92.6,23.6
+HK,Mandaramnuvara,Leeks,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,1,2,1143,7.085,12.025,92.6,23.6
+WP,Puswalapitiya,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,non-rainy,1,0,1012,5.82,3.6,87.7,23.2
+WP,Puswalapitiya,Radish,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,1,2,1012,6.28,6.8,92.2,23.1
+HK,Rikillagaskada,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,1,3,882,6.35,5.98,91.9,24
+HK,Rikillagaskada,Radish,Nursery,Agriculture,Seedling,Leavicaulis alte,LeaAlt,non-rainy,1,1,882,5.67,1.8,89.8,25.6
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,1,4,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,1,2,1206,7.02,8.685,88.7,20.4
+WP,Udagama,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,non-rainy,1,1,1318,5.22,3.6,83.8,24.6
+KT,Watagoda,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,non-rainy,1,1,1214,7.03,3.8,80,21.8
+WP,Ambagaspitiya,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,2,3,731,6.105,7.065,83.4,23.7
+KT,Beramana,Pumpkin,Nursery,Agriculture,Seedling,Leavicaulis alte,LeaAlt,non-rainy,2,5,976,6.23,1.6,78.2,25.1
+WP,Puswalapitiya,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,2,2,1012,6.28,6.8,92.2,23.1
+HK,Rikillagaskada,Radish,Nursery,Agriculture,Seedling,Leavicaulis alte,LeaAlt,rainy,2,5,882,6.35,5.98,91.9,24
+WP,Udagama,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,2,6,1318,5.095,6.915,86.95,22.5
+KT,Watagoda,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,2,5,1214,6.985,6.915,88.1,21.6
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Leavicaulis alte,LeaAlt,rainy,4,5,613,6.695,3.765,90.65,24.7
+KT,Beramana,Chili,Nursery,Agriculture,Seedling,Leavicaulis alte,LeaAlt,rainy,5,11,976,6.155,4.185,88.2,23.3
+KT,Beramana,Pumpkin,Nursery,Agriculture,Seedling,Leavicaulis alte,LeaAlt,rainy,7,23,976,6.155,4.185,88.2,23.3
+HK,Adikarigama,Beans,Mature,Agriculture,Pod,Lissachatina fulica,LisFul,non-rainy,1,2,525,7.88,1.6,81.8,27
+HK,Adikarigama,Cucumber,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,525,7.88,1.6,81.8,27
+HK,Adikarigama,Cucumber,Mature,Agriculture,Flower,Lissachatina fulica,LisFul,rainy,1,10,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Lissachatina fulica,LisFul,non-rainy,1,1,525,7.88,1.6,81.8,27
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Lissachatina fulica,LisFul,non-rainy,1,1,525,7.88,1.6,81.8,27
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Lissachatina fulica,LisFul,rainy,1,6,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Leaf,Lissachatina fulica,LisFul,rainy,1,5,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Leaf,Lissachatina fulica,LisFul,rainy,1,3,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Leaf,Lissachatina fulica,LisFul,rainy,1,2,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Leaf,Lissachatina fulica,LisFul,rainy,1,4,525,7.83,4.25,88.4,22.8
+AG,Ambagamuwa,Radish,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,613,6.35,3.2,88,27.3
+AG,Ambagamuwa,Tomato,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,613,6.35,3.2,88,27.3
+WP,Ambagaspitiya,Beans,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,5,731,6.105,7.065,83.4,23.7
+WP,Ambagaspitiya,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,731,5.84,1.8,84.3,27.3
+WP,Ambagaspitiya,Eggplant,Young,Agriculture,Flower,Lissachatina fulica,LisFul,rainy,1,1,731,6.105,7.065,83.4,23.7
+WP,Ambagaspitiya,Eggplant,Young,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,2,731,6.105,7.065,83.4,23.7
+WP,Ambagaspitiya,Tomato,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,6,731,6.105,7.065,83.4,23.7
+AG,Bagathulawagama,Cabbage,Mature,Polytunnel,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,608,5.17,3.2,93.3,25.2
+KT,Beramana,Chili,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,7,976,6.23,1.6,78.2,25.1
+KT,Beramana,Chili,Nursery,Agriculture,Seedling,Lissachatina fulica,LisFul,non-rainy,1,4,976,6.23,1.6,78.2,25.1
+KT,Beramana,Pumpkin,Mature,Agriculture,Fruit,Lissachatina fulica,LisFul,non-rainy,1,1,976,6.23,1.6,78.2,25.1
+KT,Beramana,Pumpkin,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,6,976,6.23,1.6,78.2,25.1
+KT,Beramana,Pumpkin,Mature,Agriculture,Flower,Lissachatina fulica,LisFul,rainy,1,12,976,6.155,4.185,88.2,23.3
+KT,Beramana,Pumpkin,Nursery,Agriculture,Seedling,Lissachatina fulica,LisFul,rainy,1,20,976,6.155,4.185,88.2,23.3
+AG,Bloomfield,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,2,1096,5.37,1,52.1,23.7
+AG,Bloomfield,Radish,Nursery,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,21,1096,5.385,5.835,72.9,22.7
+AG,BogawanthalawaD,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,2,1313,6.86,5,77.7,23.5
+AG,BogawanthalawaD,Leeks,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,1,1313,7.185,8.165,84.2,22.5
+AG,Brunswick,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,2,1310,5.37,5.2,78.7,24.7
+HK,Elamulla,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,7,1667,6.215,11.945,86.25,23.5
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,5,1204,4.89,7.5,91,23.8
+AG,Elfindale,Radish,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,2,1204,4.89,7.5,91,23.8
+AG,Glenugie,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,1327,5.37,7.5,83.5,24.2
+AG,Gorthie,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,9,1240,5.49,9.415,89.7,23.5
+HK,Hanguranketha,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,5,775,5.05,1.8,94.2,24.5
+AG,Hebbekanda,Beans,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,1,790,6.35,3.3,97,25.3
+AG,Hebbekanda,Beans,Mature,Agriculture,Pod,Lissachatina fulica,LisFul,rainy,1,5,790,5.6,4.66,98.6,25.1
+AG,Hebbekanda,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,6,790,6.35,3.3,97,25.3
+KT,Kalapitiya,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,922,5.79,1.6,86.2,26.1
+WP,Keenagolla,Beetroot,Young,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,6,869,6.61,4.3,87.75,22.3
+WP,Keenagolla,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,869,6.92,3.6,76,26.3
+WP,Keenagolla,Tomato,Nursery,Agriculture,Seedling,Lissachatina fulica,LisFul,non-rainy,1,10,869,6.92,3.6,76,26.3
+WP,Keenagolla,Tomato,Mature,Agriculture,Fruit,Lissachatina fulica,LisFul,rainy,1,9,869,6.61,4.3,87.75,22.3
+WP,Keenagolla,Tomato,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,4,869,6.61,4.3,87.75,22.3
+WP,Kumbalgama,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,4,614,5.91,4.8,76.6,24.8
+WP,Kumbalgama,Onion,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,4,614,6.355,7.735,82.2,21
+WP,Kumbalgama,Radish,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,1,614,5.91,4.8,76.6,24.8
+KT,Mahaweligama,Chili,Nursery,Polytunnel,Seedling,Lissachatina fulica,LisFul,non-rainy,1,11,1096,6.34,1.6,81.4,23.1
+KT,Mahaweligama,Chili,Young,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,9,1096,6.34,1.6,81.4,23.1
+KT,Mahaweligama,Banana pepper,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,0,1096,6.34,1.6,81.4,23.1
+KT,Mailappawala,Beans,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,1,896,5.51,6.48,92.7,22.4
+HK,Mandaramnuvara,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,7,1143,7.085,12.025,92.6,23.6
+HK,Mandaramnuvara,Leeks,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,2,1143,7.085,12.025,92.6,23.6
+WP,Maturata,Beans,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,2,1043,6.16,3.6,73.7,24.4
+WP,Maturata,Beans,Mature,Agriculture,Pod,Lissachatina fulica,LisFul,rainy,1,7,1043,6.635,5.8,81.35,22.5
+KT,Mawela,Beans,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,4,817,5.085,9.89,91.4,21.4
+AG,Midford,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,3,981,5.37,7.1,83.5,25.1
+HK,Mool oya,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,9,1395,5.25,2.615,85.2,19.6
+KT,Palagolla,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,8,1246,4.82,2.6,66.3,24.4
+KT,Palagolla,Carrot,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,1,1246,4.82,2.6,66.3,24.4
+WP,Puswalapitiya,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,7,1012,5.82,3.6,87.7,23.2
+WP,Puswalapitiya,Radish,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,1,1012,5.82,3.6,87.7,23.2
+WP,Puswalapitiya,Tomato,Mature,Agriculture,Fruit,Lissachatina fulica,LisFul,rainy,1,11,1012,6.28,6.8,92.2,23.1
+WP,Puswalapitiya,Tomato,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,5,1012,6.28,6.8,92.2,23.1
+WP,Puswalapitiya,Tomato,Nursery,Agriculture,Seedling,Lissachatina fulica,LisFul,rainy,1,13,1012,6.28,6.8,92.2,23.1
+WP,Ragala,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,7,1438,5.63,4.8,78.2,19.6
+WP,Ragala,Carrot,Young,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,6,1438,5.63,4.8,78.2,19.6
+WP,Ragala,German Turnip,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,15,1438,6.32,9.935,85.6,19.3
+AG,Rozella,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,8,1136,6.905,5.835,84.45,24.2
+KT,Ruvanpura,Chili,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,5,750,5.64,1.6,94,22.5
+AG,Stockholm,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,4,1308,5.37,7.2,83.5,24.8
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,4,1206,6.82,3.8,83.9,22
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,2,1206,6.82,3.8,83.9,22
+WP,Udagama,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,1,1318,5.095,6.915,86.95,22.5
+WP,Udagama,Chili,Nursery,Agriculture,Seedling,Lissachatina fulica,LisFul,non-rainy,1,8,1318,5.22,3.6,83.8,24.6
+WP,Udagama,Chili,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,1,11,1318,5.095,6.915,86.95,22.5
+WP,Walapane,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,1,6,675,5.19,4.8,76.2,24.6
+HK,Adikarigama,Beans,Mature,Agriculture,Pod,Lissachatina fulica,LisFul,rainy,2,9,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Bud,Lissachatina fulica,LisFul,rainy,2,9,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Lissachatina fulica,LisFul,rainy,2,8,525,7.83,4.25,88.4,22.8
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,2,7,613,6.35,3.2,88,27.3
+AG,Ambagamuwa,Tomato,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,11,613,6.695,3.765,90.65,24.7
+KT,Beramana,Chili,Nursery,Agriculture,Seedling,Lissachatina fulica,LisFul,rainy,2,19,976,6.155,4.185,88.2,23.3
+AG,Bloomfield,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,9,1096,5.385,5.835,72.9,22.7
+AG,BogawanthalawaD,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,8,1313,7.185,8.165,84.2,22.5
+AG,Brunswick,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,7,1310,5.385,6.365,84.95,23.3
+AG,Glenugie,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,11,1327,5.49,9.415,89.1,23.5
+AG,Hebbekanda,Beans,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,4,790,5.6,4.66,98.6,25.1
+KT,Kalapitiya,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,15,922,5.285,4.025,89.6,25.1
+WP,Keenagolla,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,11,869,6.61,4.3,87.75,22.3
+WP,Kumbalgama,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,17,614,6.355,7.735,82.2,21
+WP,Kumbalgama,Radish,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,5,614,6.355,7.735,82.2,21
+KT,Mahaweligama,Banana pepper,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,1,1096,5.78,2.575,85.3,22.7
+KT,Mailappawala,Beans,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,5,896,5.615,9.94,96.35,21.5
+WP,Maturata,Beans,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,8,1043,6.635,5.8,81.35,22.5
+AG,Midford,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,11,981,5.49,8.585,89.35,23.5
+KT,Palagolla,Carrot,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,4,1246,5.435,3.9,79.85,24.1
+WP,Puswalapitiya,Radish,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,3,1012,6.28,6.8,92.2,23.1
+KT,Ruvanpura,Chili,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,21,750,5.245,2.415,96.75,22.2
+AG,Stockholm,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,16,1308,5.49,8.635,87.1,23.5
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,16,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,2,8,1206,7.02,8.685,88.7,20.4
+WP,Walapane,Ornamentals,Nursery,Polytunnel,Flower,Lissachatina fulica,LisFul,rainy,2,13,675,5.11,7.4,81.45,21
+WP,Ambagaspitiya,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,3,11,731,6.105,7.065,83.4,23.7
+AG,Bagathulawagama,Cabbage,Mature,Polytunnel,Leaf,Lissachatina fulica,LisFul,rainy,3,14,608,5.01,3.85,95.75,24.7
+KT,Beramana,Pumpkin,Mature,Agriculture,Fruit,Lissachatina fulica,LisFul,rainy,3,4,976,6.155,4.185,88.2,23.3
+AG,Elfindale,Radish,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,3,8,1204,4.95,8.95,95.6,23.1
+HK,Hanguranketha,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,3,21,775,6.1,6.385,95.7,23.5
+AG,Hebbekanda,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,3,25,790,5.6,4.66,98.6,25.1
+KT,Mahaweligama,Chili,Young,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,3,37,1096,5.78,2.575,85.3,22.7
+AG,Marussakelle,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,non-rainy,3,11,1150,5.68,5.5,80.5,26.9
+WP,Ragala,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,3,28,1438,6.32,9.935,85.6,19.3
+WP,Ragala,Carrot,Young,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,3,27,1438,6.32,9.935,85.6,19.3
+WP,Udagama,Chili,Nursery,Agriculture,Seedling,Lissachatina fulica,LisFul,rainy,3,35,1318,5.095,6.915,86.95,22.5
+HK,Adikarigama,Cucumber,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,4,15,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Lissachatina fulica,LisFul,rainy,4,7,525,7.83,4.25,88.4,22.8
+AG,Ambagamuwa,Radish,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,4,14,613,6.695,3.765,90.65,24.7
+KT,Beramana,Chili,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,4,32,976,6.155,4.185,88.2,23.3
+KT,Mahaweligama,Chili,Nursery,Polytunnel,Seedling,Lissachatina fulica,LisFul,rainy,4,46,1096,5.78,2.575,85.3,22.7
+KT,Palagolla,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,4,34,1246,5.435,3.9,79.85,24.1
+WP,Puswalapitiya,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,4,31,1012,6.28,6.8,92.2,23.1
+WP,Walapane,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,4,25,675,5.11,7.4,81.45,21
+KT,Beramana,Pumpkin,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,5,27,976,6.155,4.185,88.2,23.3
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,5,23,1204,4.95,8.95,95.6,23.1
+WP,Keenagolla,Tomato,Nursery,Agriculture,Seedling,Lissachatina fulica,LisFul,rainy,5,41,869,6.61,4.3,87.75,22.3
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Lissachatina fulica,LisFul,rainy,6,16,525,7.83,4.25,88.4,22.8
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,7,30,613,6.695,3.765,90.65,24.7
+AG,Marussakelle,Cabbage,Mature,Agriculture,Leaf,Lissachatina fulica,LisFul,rainy,11,47,1150,5.115,6.175,81.9,24.4
+AG,BogawanthalawaD,Beans,Mature,Agriculture,Pod,Macrochlamys indica,MacInd,rainy,1,1,1313,7.185,8.165,84.2,22.5
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Seedling,Macrochlamys indica,MacInd,non-rainy,1,1,1028,4.57,3.12,70.7,23.7
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Bud,Macrochlamys indica,MacInd,rainy,1,1,1028,4.55,2.65,88.5,20.6
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Leaf,Macrochlamys indica,MacInd,rainy,1,1,1028,4.55,2.65,88.5,20.6
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Leaf,Macrochlamys indica,MacInd,rainy,1,1,1028,4.55,2.65,88.5,20.6
+NE,Talawakele,Beans,Mature,Agriculture,Pod,Macrochlamys indica,MacInd,non-rainy,1,0,1206,6.82,3.8,83.9,22
+KT,Kothmalgama,Ornamentals,Nursery,Polytunnel,Seedling,Macrochlamys indica,MacInd,rainy,3,1,1028,4.55,2.65,88.5,20.6
+NE,Talawakele,Beans,Mature,Agriculture,Pod,Macrochlamys indica,MacInd,rainy,4,1,1206,7.02,8.685,88.7,20.4
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Mariella dussumieri,MarDus,non-rainy,1,1,525,7.88,1.6,81.8,27
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Bud,Mariella dussumieri,MarDus,rainy,1,1,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Mariella dussumieri,MarDus,rainy,1,2,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Mariella dussumieri,MarDus,rainy,1,1,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Leaf,Mariella dussumieri,MarDus,rainy,1,2,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Leaf,Mariella dussumieri,MarDus,rainy,1,2,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Leaf,Mariella dussumieri,MarDus,rainy,1,3,525,7.83,4.25,88.4,22.8
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,613,6.35,3.2,88,27.3
+AG,Ambagamuwa,Tomato,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,1,613,6.35,3.2,88,27.3
+WP,Ambagaspitiya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,5,731,5.84,1.8,84.3,27.3
+WP,Ambagaspitiya,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,1,731,5.84,1.8,84.3,27.3
+WP,Ambagaspitiya,Onion,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,731,6.105,7.065,83.4,23.7
+WP,Ambagaspitiya,Tomato,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,3,731,6.105,7.065,83.4,23.7
+NE,Ambewela,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,4,1942,6.49,9.5,83,23.5
+NE,Ambewela,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,2,1942,6.49,9.5,83,23.5
+KT,Beramana,Chili,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,1,976,6.23,1.6,78.2,25.1
+KT,Beramana,Chili,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,non-rainy,1,3,976,6.23,1.6,78.2,25.1
+AG,Brunswick,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,5,1310,5.37,5.2,78.7,24.7
+AG,Dehigasthenna,Ornamentals,Nursery,Polytunnel,Seedling,Mariella dussumieri,MarDus,non-rainy,1,1,790,6.47,3.25,80.2,25.4
+AG,Dehigasthenna,Ornamentals,Nursery,Polytunnel,Bud,Mariella dussumieri,MarDus,rainy,1,1,790,5.6,4.66,98.6,24.3
+AG,Dehigasthenna,Ornamentals,Nursery,Polytunnel,Leaf,Mariella dussumieri,MarDus,rainy,1,1,790,5.6,4.66,98.6,24.3
+AG,Dehigasthenna,Ornamentals,Nursery,Polytunnel,Leaf,Mariella dussumieri,MarDus,rainy,1,2,790,5.6,4.66,98.6,24.3
+AG,Dehigasthenna,Ornamentals,Nursery,Polytunnel,Leaf,Mariella dussumieri,MarDus,rainy,1,3,790,5.6,4.66,98.6,24.3
+AG,Dehigasthenna,Ornamentals,Nursery,Polytunnel,Seedling,Mariella dussumieri,MarDus,rainy,1,7,790,5.6,4.66,98.6,24.3
+NE,Diyagama,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,6,1427,7.01,3.8,83,24.4
+NE,Diyagama,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,1,1427,7.01,3.8,83,24.4
+HK,Elamulla,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,9,1667,6.215,11.945,86.25,23.5
+HK,Elamulla,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,3,1667,6.215,11.945,86.25,23.5
+AG,Elfindale,Radish,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,1,1204,4.89,7.5,91,23.8
+AG,Gauvaravilla,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,1320,4.95,7.5,84.5,23.7
+AG,Gauvaravilla,Tomato,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,1320,5.35,9.415,89.35,23.4
+HK,Hanguranketha,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,4,775,6.1,6.385,95.7,23.5
+AG,Hatton,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,8,1262,6.905,5.91,82.35,24.3
+AG,Hatton,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,1262,6.905,5.91,82.35,24.3
+AG,Hatton,Lettuce,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,non-rainy,1,3,1262,5.77,5.8,73.1,24.9
+AG,Hatton,Lettuce,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,3,1262,6.905,5.91,82.35,24.3
+AG,Hebbekanda,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,5,790,5.6,4.66,98.6,25.1
+HK,Hewaheta,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,1135,5.12,2.1,71.2,26.2
+KT,Kalapitiya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,3,922,5.285,4.025,89.6,25.1
+KT,Kalapitiya,Carrot,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,0,922,5.79,1.6,86.2,26.1
+WP,Keenagolla,Beetroot,Young,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,4,869,6.61,4.3,87.75,22.3
+WP,Keenagolla,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,5,869,6.92,3.6,76,26.3
+WP,Keenagolla,Tomato,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,non-rainy,1,5,869,6.92,3.6,76,26.3
+WP,Keenagolla,Tomato,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,1,869,6.61,4.3,87.75,22.3
+NE,Kotagala,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,4,1246,7.63,3.8,82.1,24.5
+WP,Kumbalgama,Onion,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,3,614,6.355,7.735,82.2,21
+WP,Kumbalgama,Radish,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,3,614,6.355,7.735,82.2,21
+WP,Lidesdialwatta,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,4,1623,5.29,9.9,85.35,22.3
+KT,Mahaweligama,Chili,Nursery,Polytunnel,Seedling,Mariella dussumieri,MarDus,non-rainy,1,2,1096,6.34,1.6,81.4,23.1
+KT,Mahaweligama,Chili,Young,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,5,1096,6.34,1.6,81.4,23.1
+HK,Mandaramnuvara,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,8,1143,7.085,12.025,92.6,23.6
+HK,Mandaramnuvara,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,4,1143,7.085,12.025,92.6,23.6
+HK,Mandaramnuvara,Lettuce,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,1143,7.085,12.025,92.6,23.6
+AG,Marussakelle,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,4,1150,5.68,5.5,80.5,26.9
+AG,Maskeliya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,5,1207,5.72,7.5,77.7,24.1
+WP,Maturata,Tomato,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,2,1043,6.16,3.6,73.7,24.4
+WP,Maturata,Tomato,Mature,Agriculture,Fruit,Mariella dussumieri,MarDus,rainy,1,7,1043,6.635,5.8,81.35,22.5
+WP,Maturata,Tomato,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,rainy,1,9,1043,6.635,5.8,81.35,22.5
+KT,Mawela,Radish,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,0,817,4.65,6.5,90.1,22.4
+KT,Methagama,Radish,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,1,888,6.07,1.6,84.5,23.3
+AG,Norwood,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,5,1256,4.71,3.8,83.2,25.1
+AG,Norwood,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,2,1256,4.71,3.8,83.2,25.1
+NE,Nuwara Eliya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,6,1906,6.1,2.7,72.8,19.3
+NE,Nuwara Eliya,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,3,1906,6.06,5.03,80.2,17.8
+KT,Pundalu oya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,4,1204,4.83,4.5,82,21.4
+KT,Pundalu oya,Carrot,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,0,1204,4.83,4.5,82,21.4
+WP,Ragala,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,5,1438,5.63,4.8,78.2,19.6
+WP,Ragala,Carrot,Young,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,4,1438,5.63,4.8,78.2,19.6
+WP,Ragala,Carrot,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,1,1438,6.32,9.935,85.6,19.3
+WP,Ragala,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,1438,5.63,4.8,78.2,19.6
+WP,Ragala,Lettuce,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,2,1438,5.63,4.8,78.2,19.6
+WP,Ragala,Lettuce,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,non-rainy,1,11,1438,5.63,4.8,78.2,19.6
+WP,Ragala,Onion,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,1,1438,6.32,9.935,85.6,19.3
+WP,Ragala,Onion,Mature,Agriculture,Root,Mariella dussumieri,MarDus,rainy,1,2,1438,6.32,9.935,85.6,19.3
+KT,Rawanagoda,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,979,5.6,2.415,90.45,22.5
+KT,Rawanagoda,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,979,5.6,2.415,90.45,22.5
+KT,Rawanagoda,Radish,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,979,5.6,2.415,90.45,22.5
+HK,Rikillagaskada,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,882,5.67,1.8,89.8,25.6
+HK,Rikillagaskada,Radish,Nursery,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,1,882,5.67,1.8,89.8,25.6
+HK,Rikillagaskada,Radish,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,non-rainy,1,3,882,5.67,1.8,89.8,25.6
+AG,Rozella,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,6,1136,6.905,5.835,84.45,24.2
+AG,Stockholm,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,1308,5.37,7.2,83.5,24.8
+NE,Talawakele,Bell pepper,Mature,Polytunnel,Flower,Mariella dussumieri,MarDus,non-rainy,1,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Bell pepper,Mature,Polytunnel,Leaf,Mariella dussumieri,MarDus,non-rainy,1,2,1206,6.82,3.8,83.9,22
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,1206,6.82,3.8,83.9,22
+NE,Talawakele,Chinese cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,1,1206,6.82,3.8,83.9,22
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,1206,6.82,3.8,83.9,22
+NE,Talawakele,Zucchini,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,1206,7.02,8.685,88.7,20.4
+WP,Uda pussellawa,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,3,1308,6.01,9,86.5,19.3
+WP,Udagama,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,6,1318,5.095,6.915,86.95,22.5
+WP,Udagama,Chili,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,1,2,1318,5.095,6.915,86.95,22.5
+WP,Udagama,Chili,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,rainy,1,15,1318,5.095,6.915,86.95,22.5
+WP,Walapane,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,3,675,5.19,4.8,76.2,24.6
+WP,Walapane,Ornamentals,Nursery,Polytunnel,Flower,Mariella dussumieri,MarDus,rainy,1,1,675,5.11,7.4,81.45,21
+KT,Watagoda,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,1,6,1214,7.03,3.8,80,21.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Leaf,Mariella dussumieri,MarDus,rainy,2,5,525,7.83,4.25,88.4,22.8
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,14,613,6.695,3.765,90.65,24.7
+AG,Ambagamuwa,Tomato,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,5,613,6.695,3.765,90.65,24.7
+WP,Ambagaspitiya,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,6,731,6.105,7.065,83.4,23.7
+KT,Beramana,Chili,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,5,976,6.155,4.185,88.2,23.3
+AG,Dehigasthenna,Ornamentals,Nursery,Polytunnel,Seedling,Mariella dussumieri,MarDus,rainy,2,5,790,5.6,4.66,98.6,24.3
+NE,Diyagama,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,5,1427,7.35,4.465,87.45,24.2
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,2,10,1204,4.89,7.5,91,23.8
+AG,Elfindale,Radish,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,4,1204,4.95,8.95,95.6,23.1
+AG,Gauvaravilla,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,14,1320,5.35,9.415,89.35,23.4
+AG,Hatton,Lettuce,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,rainy,2,14,1262,6.905,5.91,82.35,24.3
+HK,Hewaheta,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,13,1135,5.995,2.63,80.75,22.4
+KT,Kalapitiya,Carrot,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,1,922,5.285,4.025,89.6,25.1
+NE,Kotagala,Chinese cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,non-rainy,2,1,1246,7.63,3.8,82.1,24.5
+KT,Mahaweligama,Chili,Nursery,Polytunnel,Seedling,Mariella dussumieri,MarDus,rainy,2,8,1096,5.78,2.575,85.3,22.7
+KT,Mahaweligama,Chili,Young,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,21,1096,5.78,2.575,85.3,22.7
+AG,Marussakelle,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,17,1150,5.115,6.175,81.9,24.4
+KT,Mawela,Radish,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,1,817,5.085,9.89,91.4,21.4
+AG,Norwood,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,7,1256,4.795,7.235,82.15,20.5
+KT,Pundalu oya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,16,1204,5.115,8.5,90.8,20.1
+KT,Pundalu oya,Carrot,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,1,1204,5.115,8.5,90.8,20.1
+WP,Ragala,Carrot,Young,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,16,1438,6.32,9.935,85.6,19.3
+WP,Ragala,Lettuce,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,7,1438,6.32,9.935,85.6,19.3
+HK,Rikillagaskada,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,11,882,6.35,5.98,91.9,24
+HK,Rikillagaskada,Radish,Nursery,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,6,882,6.35,5.98,91.9,24
+AG,Stockholm,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,14,1308,5.49,8.635,87.1,23.5
+WP,Walapane,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,2,13,675,5.11,7.4,81.45,21
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Mariella dussumieri,MarDus,rainy,3,2,525,7.83,4.25,88.4,22.8
+HK,Adikarigama,Ornamentals,Nursery,Polytunnel,Flower,Mariella dussumieri,MarDus,rainy,3,2,525,7.83,4.25,88.4,22.8
+NE,Ambewela,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,3,18,1942,6.515,10.36,91.5,22.1
+NE,Ambewela,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,3,9,1942,6.515,10.36,91.5,22.1
+KT,Beramana,Chili,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,rainy,3,12,976,6.155,4.185,88.2,23.3
+WP,Keenagolla,Tomato,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,rainy,3,21,869,6.61,4.3,87.75,22.3
+NE,Kotagala,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,3,16,1246,7.185,5.9,85.75,24.2
+WP,Maturata,Tomato,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,3,7,1043,6.635,5.8,81.35,22.5
+KT,Methagama,Radish,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,3,3,888,5.9,2.415,89.9,23.1
+NE,Talawakele,Bell pepper,Mature,Polytunnel,Leaf,Mariella dussumieri,MarDus,rainy,3,9,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,3,15,1206,7.02,8.685,88.7,20.4
+WP,Ambagaspitiya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,23,731,6.105,7.065,83.4,23.7
+AG,Brunswick,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,21,1310,5.385,6.365,84.95,23.3
+NE,Diyagama,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,26,1427,7.35,4.465,87.45,24.2
+WP,Keenagolla,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,21,869,6.61,4.3,87.75,22.3
+AG,Maskeliya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,21,1207,5.025,7.585,81.55,24
+NE,Nuwara Eliya,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,24,1906,6.06,5.03,80.2,17.8
+WP,Ragala,Leeks,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,11,1438,6.32,9.935,85.6,19.3
+HK,Rikillagaskada,Radish,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,rainy,4,13,882,6.35,5.98,91.9,24
+NE,Talawakele,Bell pepper,Mature,Polytunnel,Flower,Mariella dussumieri,MarDus,rainy,4,5,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Chinese cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,4,1206,7.02,8.685,88.7,20.4
+NE,Talawakele,Lettuce,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,12,1206,7.02,8.685,88.7,20.4
+KT,Watagoda,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,4,26,1214,6.985,6.915,88.1,21.6
+AG,Norwood,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,5,23,1256,4.795,7.235,82.15,20.5
+WP,Ragala,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,5,23,1438,6.32,9.935,85.6,19.3
+WP,Ragala,Lettuce,Nursery,Agriculture,Seedling,Mariella dussumieri,MarDus,rainy,5,46,1438,6.32,9.935,85.6,19.3
+NE,Kotagala,Chinese cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,6,4,1246,7.185,5.9,85.75,24.2
+AG,Elfindale,Cabbage,Mature,Agriculture,Leaf,Mariella dussumieri,MarDus,rainy,7,41,1204,4.95,8.95,95.6,23.1
+AG,Ambagamuwa,Cabbage,Mature,Agriculture,Leaf,Milax gagates,MilGag,rainy,1,2,613,6.695,3.765,90.65,24.7
+WP,Ragala,Leeks,Mature,Agriculture,Leaf,Milax gagates,MilGag,rainy,1,3,1438,6.32,9.935,85.6,19.3
+WP,Walapane,Cabbage,Mature,Agriculture,Leaf,Milax gagates,MilGag,rainy,1,3,675,5.11,7.4,81.45,21
+WP,Ambagaspitiya,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,non-rainy,1,1,731,5.84,1.8,84.3,27.3
+WP,Ambagaspitiya,Leeks,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,1,1,731,6.105,7.065,83.4,23.7
+WP,Ambagaspitiya,Onion,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,1,3,731,6.105,7.065,83.4,23.7
+HK,DaraOya,Cabbage,Mature,Agriculture,Leaf,Subulina octona,SubOct,non-rainy,1,0,1136,6.13,2.1,72,28.8
+WP,Keenagolla,Beetroot,Young,Agriculture,Root,Subulina octona,SubOct,non-rainy,1,2,869,6.92,3.6,76,26.3
+WP,Keenagolla,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,non-rainy,1,1,869,6.92,3.6,76,26.3
+WP,Lidesdialwatta,Carrot,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,1,1,1623,5.29,9.9,85.35,22.3
+WP,Lidesdialwatta,Leeks,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,1,1,1623,5.29,9.9,85.35,22.3
+HK,Mool oya,Leeks,Mature,Agriculture,Leaf,Subulina octona,SubOct,non-rainy,1,0,1395,5.44,2.1,70.4,26.5
+AG,Nallatanniya,Cabbage,Mature,Agriculture,Leaf,Subulina octona,SubOct,non-rainy,1,0,1234,5.54,6.7,83.3,24.4
+AG,Nallatanniya,Banana pepper,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,1,1,1234,5.395,6.885,86.65,23.8
+AG,Nallatanniya,German Turnip,Mature,Agriculture,Leaf,Subulina octona,SubOct,rainy,1,1,1234,5.395,6.885,86.65,23.8
+KT,Pundalu oya,Cabbage,Mature,Agriculture,Leaf,Subulina octona,SubOct,non-rainy,1,1,1204,4.83,4.5,82,21.4
+WP,Puswalapitiya,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,non-rainy,1,0,1012,5.82,3.6,87.7,23.2
+WP,Uda pussellawa,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,1,2,1308,6.01,9,86.5,19.3
+WP,Udagama,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,non-rainy,1,0,1318,5.22,3.6,83.8,24.6
+WP,Ambagaspitiya,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,2,3,731,6.105,7.065,83.4,23.7
+HK,DaraOya,Cabbage,Mature,Agriculture,Leaf,Subulina octona,SubOct,rainy,2,2,1136,5.59,2.63,73.7,23.3
+WP,Keenagolla,Beetroot,Young,Agriculture,Root,Subulina octona,SubOct,rainy,2,7,869,6.61,4.3,87.75,22.3
+WP,Keenagolla,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,2,6,869,6.61,4.3,87.75,22.3
+HK,Mool oya,Leeks,Mature,Agriculture,Leaf,Subulina octona,SubOct,rainy,2,1,1395,5.25,2.615,85.2,19.6
+AG,Nallatanniya,Cabbage,Mature,Agriculture,Leaf,Subulina octona,SubOct,rainy,2,1,1234,5.395,6.885,86.65,23.8
+WP,Puswalapitiya,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,2,1,1012,6.28,6.8,92.2,23.1
+WP,Udagama,Cabbage,Mature,Agriculture,Root,Subulina octona,SubOct,rainy,3,1,1318,5.095,6.915,86.95,22.5
+KT,Pundalu oya,Cabbage,Mature,Agriculture,Leaf,Subulina octona,SubOct,rainy,4,5,1204,5.115,8.5,90.8,20.1
